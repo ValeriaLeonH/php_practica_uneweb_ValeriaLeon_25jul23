@@ -16,4 +16,10 @@
   myTest();
   myTest();
   myTest();
+
+  /* 
+    Entonces, cada vez que se llame a la funcion, esa variable aun tendra la informacion que contenia desde la ultima vez que se llamo la funcion. 
+    
+    Nota: la variable sigue siendo local para la funcion. 
+  */
 ?>
